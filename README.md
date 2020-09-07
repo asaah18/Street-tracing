@@ -1,10 +1,17 @@
-# Street tracing
+# Street eye
 
 > Using Machine learning to solve traffic problems
 
+## Team members
+
+- Hatem alkhonini
+- Muath alsaeed
+- Abdulrahman alhomaidany
+
 ## Table of content
 
-- [Street tracing](#street-tracing)
+- [Street eye](#street-eye)
+  - [Team members](#team-members)
   - [Table of content](#table-of-content)
   - [Introduction](#introduction)
   - [Tools used for the project](#tools-used-for-the-project)
@@ -16,7 +23,6 @@
     - [Vehicles tracking](#vehicles-tracking)
   - [Future work](#future-work)
 
-
 ## Introduction
 
 - this project is focusing on finding a new way to solve the traffic problem using machine learning and computer vision
@@ -26,6 +32,7 @@
 ## Tools used for the project
 
 - OpenCV
+- yolo
 - Python programing language
 - Visual studio code
 - Pycharm
