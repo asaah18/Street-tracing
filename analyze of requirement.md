@@ -16,7 +16,7 @@
   - > optional
 - use triggers based on the number of cars
 
-## Data visulization
+## Data visualization
 
 - dashboard to show analyze of data
-  - can be intractive
+  - can be interactive
