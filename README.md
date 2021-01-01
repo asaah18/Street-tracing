@@ -33,7 +33,7 @@
 
 - OpenCV
 - yolo
-- Python programing language
+- Python programming language
 - Visual studio code
 - Pycharm
 
@@ -51,13 +51,13 @@ It seems impossible to know the reason of the traffic jams with out data or info
 
 ### vehicles classification and counting
 
-- Using surveillance cameras and using openCV library and python programing language to count and classify the vehicle
+- Using surveillance cameras and using openCV library and python programming language to count and classify the vehicle
 - By counting the vehicles we can know if the capacity of the road can handle this number or not
 - And classify the vehicles to identify the trucks and cars because the size of the vehicle is effecting the capacity of the road
 
 ### Vehicles tracking
 
-- Using surveillance cameras and using openCV library and python programing language to track the vehicle movement
+- Using surveillance cameras and using openCV library and python programming language to track the vehicle movement
 - By tracking the movement of the vehicles we can identify the speed of the vehicle to predict the reason of the traffic jam
 - Because unmoving object or under speed vehicle is causing the traffic jam
 
